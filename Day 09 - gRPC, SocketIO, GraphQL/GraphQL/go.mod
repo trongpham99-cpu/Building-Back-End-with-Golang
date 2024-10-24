@@ -1,4 +1,4 @@
-module app-graph-ql
+module server-graphQL
 
 go 1.22.5
 
