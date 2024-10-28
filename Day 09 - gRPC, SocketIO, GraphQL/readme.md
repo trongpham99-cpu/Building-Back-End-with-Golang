@@ -1,7 +1,4 @@
-1. gRPC - Remote Procedure Call
-    - Build a Calculator Service
-      - Server Golang
-      - Client Golang
+1. gRPC - Remote Procedure Call: https://grpc.io/docs/languages/go/quickstart/
 2. SocketIO - Realtime Communication
    - Build a Chat Application
      - Server Golang
